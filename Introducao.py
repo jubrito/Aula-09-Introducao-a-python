@@ -1,11 +1,11 @@
+#colocar python aula01.py para rodar o arquivo
 full_name = "Ana Beatriz"
 age = 23
 is_new = True
 print(full_name)
-birth_year = input('qual o ano quer vc nasceu? \n')
+birth_year = input('Qual ano voce nasceu? \n')
 print(birth_year)
-#colocar python aula01.py para rodar o arquivo
-
+ 
 name = 'Juliana Witzke'
 print(name[1:5])
 print(len(name))
